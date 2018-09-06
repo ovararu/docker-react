@@ -1,0 +1,2 @@
+docker run -p 3000:3000 -v /app/node_modules -v C:\Users\octavian\Documen
+ts\udemy\frontend\:/app 43cc1b47505c
